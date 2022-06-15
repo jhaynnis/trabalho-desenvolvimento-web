@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+h1 {color: rgb(138, 112, 252);}
+h2 { color:rgb(124, 111, 240)}
+h4 {color: rgb(132, 131, 226);}
+h3 { color:rgb(141, 121, 228)}
+body { text-align: center;}
+header { color:rgb(79, 231, 211)}
+
+a:visited { color:rgb(167, 148, 238)}
+a{ color:rgb(163, 183, 219)}
+body {background-image: url(imagens/brilhinho.jpg) ; }
+
+h1 {font-family: 'Joan', serif;}
+
+footer{color: rgba(149, 138, 247, 0.925);}
+
+tr,td,th{border: 2px solid black }
+table{border-collapse: collapse color black;}
+h1 {text-shadow: 2px 2px 2px  rgb(112, 80, 170);}
+section {border: 2px solid rgba(254, 254, 255, 0.527) }
+p {color: rgb(252, 249, 255);}
+
+hi {color: rgb(253, 253, 253);}
+
+table{color: rgb(110, 108, 240);}
